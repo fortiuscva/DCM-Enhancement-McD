@@ -27,7 +27,7 @@ pageextension 50110 "TOMSalesOrderSubform" extends "Sales Order Subform"
         {
             trigger OnBeforeValidate()
             begin
-                CheckIfItemIsDuplicated
+                //CheckIfItemIsDuplicated
             end;
         }
     }
