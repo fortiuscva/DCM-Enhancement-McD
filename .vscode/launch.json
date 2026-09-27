@@ -2,40 +2,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Snapshot",
-            "request": "snapshotInitialize",
-            "type": "al",
-            "tenant": "56a710d7-fd37-4151-b2f2-e52518eebfff",
-            "environmentType": "Production",
-            "environmentName": "Production",
-            "breakOnNext": "WebClient",
-            "executionContext": "Debug",
-            "snapshotVerbosity": "Full",
-            "userId": "obaid.chhatriwala"
-        },        
-        {
-            "name": "Sandbox-OC-112524",
-            "request": "launch",
-            "type": "al",
-            "tenant": "56a710d7-fd37-4151-b2f2-e52518eebfff",
-            "environmentType": "Sandbox",
-            "environmentName": "Sandbox-OC-112524",
-            "startupObjectId": 142,
-            "startupObjectType": "Page",
-            "breakOnError": true,
-            "launchBrowser": true,
-            "enableLongRunningSqlStatements": true,
-            "enableSqlInformationDebugger": true,
-            "schemaUpdateMode": "ForceSync"
-        },
-        //DCM
-        {
-            "name": "DCM-Sandbox-BC26Update",
+            "name": "Sandbox-02242026",
             "request": "launch",
             "type": "al",
             "tenant": "ea597ad0-3b05-40b9-b938-a34f91d65ed4",
             "environmentType": "Sandbox",
-            "environmentName": "Sandbox-BC26Update",
+            "environmentName": "Sandbox-02242026",
             "startupObjectId": 142,
             "startupObjectType": "Page",
             "breakOnError": true,

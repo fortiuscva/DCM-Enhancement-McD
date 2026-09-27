@@ -1,6 +1,6 @@
 {
   "id": "14227680-1323-40fa-abfc-1dde7fd075da",
-  "name": "Tomahawk Enhancement McD",
+  "name": "DCM Tomahawk Enhancement McD",
   "publisher": "McD",
   "version": "24.0.0.155",
   "brief": "",
@@ -31,9 +31,9 @@
     },
     {
       "id": "d63e22fb-c371-4232-9870-9b6cbedcb3db",
-      "name": "Tomahawk Customizations",
+      "name": "DCM Customizations",
       "version": "23.0.0.50",
-      "publisher": "THK-OC"
+      "publisher": "DCM-OC"
     }
   ],
   "screenshots": [],
