@@ -1,0 +1,54 @@
+{
+  "id": "14227680-1323-40fa-abfc-1dde7fd075da",
+  "name": "Tomahawk Enhancement McD",
+  "publisher": "McD",
+  "version": "24.0.0.155",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "f8750ab4-1d72-455d-b773-5b487a0ac106",
+      "name": "Lanham E-Ship and E-Receive",
+      "version": "23.1.15.2",
+      "publisher": "Lanham Associates"
+    },
+    {
+      "id": "5fedf952-2450-4bce-b578-f3b7c13cd9a9",
+      "name": "Avalara AvaTax",
+      "version": "23.0.19.1",
+      "publisher": "Avalara"
+    },
+    {
+      "id": "12968b6e-b233-40e8-8ebc-160ee407d489",
+      "name": "Shop Floor Insight",
+      "version": "7.11.8651.1",
+      "publisher": "Insight Works"
+    },
+    {
+      "id": "d63e22fb-c371-4232-9870-9b6cbedcb3db",
+      "name": "Tomahawk Customizations",
+      "version": "23.0.0.50",
+      "publisher": "THK-OC"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 60149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0"
+}
