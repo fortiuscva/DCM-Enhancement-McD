@@ -5,7 +5,7 @@ codeunit 50117 "CodeSubsCriber"
 
     begin
         //SalesLine.CalcFields("Ava Tax Amount");
-        VATAmount := SalesLine."Ava Tax Amount";
+        //VATAmount := SalesLine."Ava Tax Amount";
         //message('Pankaj %1--%2', VATAmount, SalesLine."Amount Including VAT" - SalesLine.Amount);
     end;
 
